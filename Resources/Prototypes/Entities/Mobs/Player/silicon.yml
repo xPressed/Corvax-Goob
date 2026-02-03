@@ -148,6 +148,7 @@
     defaultChannel: Binary
     channels:
     - Binary
+    - Dronemind
   - type: IgnoreUIRange
   - type: StationAiHeld
   - type: StationAiOverlay
@@ -224,6 +225,7 @@
     defaultChannel: Binary
     channels:
     - Binary
+    - Dronemind
     canUseInCrit: true # Goobstation
   - type: ActionGrant
     actions:
@@ -428,6 +430,12 @@
       state: ai_female
   - type: NameIdentifier
     group: StationAi
+  # Goobstation
+  - type: CollectiveMind
+    defaultChannel: Binary
+    channels:
+    - Binary
+    - Dronemind
   - type: LanguageKnowledge
     speaks:
     - TauCetiBasic
