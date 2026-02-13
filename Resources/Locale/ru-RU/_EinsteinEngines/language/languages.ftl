@@ -79,7 +79,7 @@ language-Hissing-name = Шипение
 language-Hissing-description = Хсс!
 language-Eldritch-name = Эльдрич
 language-Eldritch-description =
-    Язык, который считается давно забытым - теперь единственными, кто говорит на этом оскверненном языке визгов и бормотания, являются последователи древнего Бога Крови.
+    Язык, который считается давно забытым — теперь единственными, кто говорит на этом осквернённом языке визгов и бормотания, являются последователи древнего Бога Крови.
 language-Penguin-name = Пингвин
 language-Penguin-description = Ваап!
 language-DroneTalk-name = Дрон
